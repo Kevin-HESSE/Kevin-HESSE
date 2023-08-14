@@ -4,7 +4,7 @@
 
 I'm Kevin HESSE, a web developer in France.
 
-Currently, I'm working on a symfony project you can find here : [https://github.com/Kevin-HESSE/FEM-web-app](Projet web app)
+Currently, I'm working on a symfony project you can find here : [Entertainment web app](https://github.com/Kevin-HESSE/FEM-web-app)
 
 You can reach me on : 
 
