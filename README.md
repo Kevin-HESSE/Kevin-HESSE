@@ -4,11 +4,17 @@
 
 I'm Kevin HESSE, a web developer in France.
 
-Currently, I'm working on a symfony project you can find here : [Entertainment web app](https://github.com/Kevin-HESSE/FEM-web-app)
+- Curious
+- Self-taught
 
 You can reach me on : 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-hesse-pro)
+
+## My Projects :
+
+- [Entertainment web app](https://github.com/Kevin-HESSE/FEM-web-app) - Demo available inside the readme of this project with test account
+- [O'Harvest](https://github.com/Kevin-HESSE/oharvest-back) - Demo available inside the readme of this project with test account
 
 ## Language I work on :
 
