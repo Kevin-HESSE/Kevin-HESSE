@@ -2,7 +2,7 @@
 
 ## Who I am ?
 
-I'm Kevin HESSE, a web developer in France.
+I'm Kevin HESSE, a passionate web developer who live in France. In some word :
 
 - Curious
 - Self-taught
@@ -13,8 +13,15 @@ You can reach me on :
 
 ## My Projects :
 
-- [Entertainment web app](https://github.com/Kevin-HESSE/FEM-web-app) - Demo available inside the readme of this project with test account
-- [O'Harvest](https://github.com/Kevin-HESSE/oharvest-back) - Demo available inside the readme of this project with test account
+🖥 Web Application :
+
+- [Entertainment web app](https://github.com/Kevin-HESSE/FEM-web-app)
+- [O'Harvest](https://github.com/Kevin-HESSE/oharvest-back)
+
+📃 Script application :
+
+- [Express maker CLI](https://github.com/Kevin-HESSE/express-maker-cli)
+- [Sqitch script](https://github.com/Kevin-HESSE/auto_sqitch_script)
 
 ## Language I work on :
 
@@ -49,18 +56,3 @@ You can reach me on :
 - For deployment :
 
 ![image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-<!--
-**Kevin-HESSE/Kevin-HESSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
